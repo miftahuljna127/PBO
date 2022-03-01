@@ -5,7 +5,8 @@ public class Mahasiswa extends Manusia{ //untuk pewarisan
     String programStudi;
     String jurusan;
     String perguruanTinggi;
+    
     void kuliah(){
-                System.out.println(nama+ " Kuliah");
-   }
+        System.out.println(nama+ " Kuliah");
+    }
 }

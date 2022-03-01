@@ -9,7 +9,7 @@ public class mainClass {
         animal[3] = new Serigala();
         animal[4] = new Harimau();
         for (int i = 0; i <= 4; i++){
-           animal[i].bersuara();
+            animal[i].bersuara();
         }
     }
 }

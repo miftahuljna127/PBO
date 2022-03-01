@@ -7,10 +7,9 @@ public class IfGenapGanjil {
     System.out.print("Input sebuah bilangan bulat: ");
     bilangan = input.nextInt();
     if (bilangan % 2 == 0)
-            System.out.println("Bilangan Genap");
+        System.out.println("Bilangan Genap");
     else
-            System.out.println("Bilangan Ganjil");
+         System.out.println("Bilangan Ganjil");
     input.close();
     }
-    
 }

@@ -1,5 +1,4 @@
 package eksepsi;
-
 import java.io.IOException;
 
 public class Kelas {

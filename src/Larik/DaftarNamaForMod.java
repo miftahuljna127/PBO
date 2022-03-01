@@ -1,5 +1,6 @@
 package Larik;
 import java.util.Scanner;
+
 public class DaftarNamaForMod {
     public static void main(String[] args){
     Scanner input = new Scanner(System.in);

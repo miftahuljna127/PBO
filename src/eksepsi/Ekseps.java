@@ -11,7 +11,7 @@ public class Ekseps {
         System.out.println("Nama anda: "+ umur);
         //}catch(InputMismatchException i){
             System.out.println("Terjadi kesalahan");
-        }
+    }
         //input.close();
     }
 //}

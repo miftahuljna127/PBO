@@ -5,6 +5,7 @@ public class Eksepsi {
     int x[] = new int[2];
     x[0] = 5;
     x[1] = 2;
+    
         for (int i = 0; i <= 3; i++){
             try{
                 System.out.println("Nilai elemen x ke- "+i+": "+ x[i]);
