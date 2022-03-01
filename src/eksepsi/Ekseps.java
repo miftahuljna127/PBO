@@ -1,5 +1,6 @@
 package eksepsi;
 import java.util.Scanner;
+
 public class Ekseps {
     public static void main(String[] args){
         Scanner input = new Scanner(System.in);

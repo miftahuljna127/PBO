@@ -1,9 +1,11 @@
 package Breakcontinue;
 import java.util.Scanner;
+
 public class Latihan5 {
     public static void main(String[] args){
     int nilai, pangkat, i, hasil;
     char tanya = 'Y';
+
     Scanner input = new Scanner(System.in);
     System.out.println("Program Perpangkatan");
     Task:
@@ -15,7 +17,7 @@ public class Latihan5 {
     hasil = 1;
     i = 1;
     }
-    {while (true){
+    { while (true){
         if (i <= pangkat){
             hasil = hasil * nilai;
             i++;
@@ -25,8 +27,8 @@ public class Latihan5 {
             tanya = input.next().toUpperCase().charAt(0);
             continue Task;
         }
-       }
-     }
+      }
+    }
     }
   }
 }
