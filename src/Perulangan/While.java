@@ -6,5 +6,5 @@ public class While {
         System.out.println("Pemrograman Java");
         i++;
         }
-   }
+    }
 }

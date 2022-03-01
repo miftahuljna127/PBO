@@ -1,5 +1,6 @@
 package Perulangan;
 import java.util.Scanner;
+
 public class Latihan2For {
     public static void main(String[] args){
         int n;

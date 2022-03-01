@@ -14,5 +14,5 @@ public class Latihan6While {
         }
         System.out.println("Faktorial dari ("+n+"): " + fak);
         input.close();
-}
+    }
 }
